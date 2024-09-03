@@ -10,3 +10,6 @@ npm install
 ```
 node --require ./instrumentation.js app.js
 ```
+
+#### Docs
+[Getting Started Open Telemetry for Nodejs](https://opentelemetry.io/docs/languages/js/getting-started/nodejs/)
